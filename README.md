@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Technical Consultant ◼ RLHF Specialist ◼ Integration Architect
+## Technical Consultant ◼ Integration Architect ◼ RLHF Specialist
 ---
 ### Cloud & Technical
 * Web Services (RESTful APIs)
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 * Amazon Q / Kiro
 * Microsoft Azure (Developer)
 * Claude Code
+* Discord Bots
 ### Programming & Markup
 * JavaScript / Node.js
 * Python
