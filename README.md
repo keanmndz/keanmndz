@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 * HTML / CSS
 ---
 ### Current Projects
-* [FakerSays](https://github.com/keanmndz/FakerSays)
-* Let's G - *archived*
+* [FakerSays](https://github.com/keanmndz/FakerSays) - Consolidated post automation
+* Let's G - *archived* lightweight Discord bot for /lfg for players to find other players to queue with on big servers
+* myConsultant - *internal professional project* Amazon Q-powered personal assistant on specific consulting niche
 ### Future Projects
 * Buy Me This 
 * LoLEsports Calendar App
