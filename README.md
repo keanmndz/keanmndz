@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 * Web Services (RESTful APIs)
 * Amazon Web Services (Developer)
 * Amazon Q / Kiro
+* Microsoft Azure (Developer)
 * Claude Code
 ### Programming & Markup
 * JavaScript / Node.js
