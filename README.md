@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ---
 ### Cloud & Technical
 * Web Services (RESTful APIs)
-* Amazon Web Services (Amazon Q, Kiro)
+* Amazon Web Services (Developer)
+* Amazon Q / Kiro
 * Claude Code
 ### Programming & Markup
 * JavaScript / Node.js
