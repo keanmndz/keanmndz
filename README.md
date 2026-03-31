@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **keanmndz/keanmndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Technical Consultant ◼ RLHF Specialist ◼ Integration Architect
+---
+### Cloud & Technical
+* Web Services (RESTful APIs)
+* Amazon Web Services (Amazon Q, Kiro)
+* Claude Code
+### Programming & Markup
+* JavaScript / Node.js
+* Python
+* SQL / MySQL
+* PHP / Laravel
+* HTML / CSS
+---
+### Current Projects
+* Buy Me This
+* Let's G
+* LCK Player Socials Tracker
+* LoLEsports Calendar App
