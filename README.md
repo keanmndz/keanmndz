@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 * HTML / CSS
 ---
 ### Current Projects
-* Buy Me This
-* Let's G
-* LCK Player Socials Tracker
+* [FakerSays](https://github.com/keanmndz/FakerSays)
+* Let's G - *archived*
+### Future Projects
+* Buy Me This 
 * LoLEsports Calendar App
