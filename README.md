@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 
 ## Technical Consultant ◼ Integration Architect ◼ RLHF Specialist
 ---
+
+Learning what I can. I code to test my skills and grow as a technical specialist. I can help you, and you can help me.
+> "All things good to know are difficult to learn."
+
+---
 ### Cloud & Technical
 * Web Services (RESTful APIs)
 * Amazon Web Services (Developer)
