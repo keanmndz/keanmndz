@@ -36,7 +36,7 @@ Learning what I can. I code to test my skills and grow as a technical specialist
 ---
 ### Current Projects
 * [FakerSays](https://github.com/keanmndz/FakerSays) - Consolidated post automation
-* Let's G - [*archived*] lightweight Discord bot for /lfg for players to find other players to queue with on big servers
+* Let's G - [*archived*] lightweight Discord bot that has a /lfg command for players in an active voice channel to find other players to join that channel with one click on big servers
 * myConsultant - [*internal professional project*] Amazon Q-powered personal assistant on specific consulting niche
 ### Future Projects
 * Buy Me This 
